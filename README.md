@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 💙 I’m a fan of **ASP.NET Core**, **Software Architecture**, **DDD**, **Microservices**, and **Performance**!
 
