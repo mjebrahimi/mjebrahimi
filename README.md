@@ -9,4 +9,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-mj.ebrahimi72@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mj.ebrahimi72@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-mjebrahimi-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/mjebrahimi "Contact on Telegram")
 
-![](https://github-readme-stats.vercel.app/api?username=mjebrahimi&show_icons=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mjebrahimi&show_icons=true&count_private=true&include_all_commits=true" />
+</p>
