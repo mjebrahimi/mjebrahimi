@@ -6,7 +6,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@mjebrahimi72-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mjebrahimi72 "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-mjebrahimi-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mjebrahimi/ "Connect on LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-mj.ebrahimi72@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mj.ebrahimi72@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-mjebrahimi-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/mjebrahimi "Contact on Telegram")
 
 <p align="center">
