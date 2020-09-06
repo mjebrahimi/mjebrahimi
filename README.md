@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-💙 I’m a fan of **ASP.NET Core**, **Software Architecture**, **DDD**, **Microservices**, and **Performance**!
+🔭.NET Core back-end Developer / Architect • Consultant • Blogger • DDD & Microservices Enthusiast
 
 📫 How to reach me: 
 
