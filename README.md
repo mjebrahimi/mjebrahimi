@@ -2,7 +2,7 @@
 
 🔭.NET Core back-end Developer / Architect • Consultant • Blogger • DDD & Microservices Enthusiast
 
-📫 How to reach me: 
+📫 How to reach me 
 
 [![Twitter Badge](https://img.shields.io/badge/-@mjebrahimi72-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mjebrahimi72 "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-mjebrahimi-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mjebrahimi/ "Connect on LinkedIn")
