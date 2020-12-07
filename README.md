@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-🔭 I am a .NET Core back-end Developer/Architect • Consultant • Blogger • DDD & Microservices Enthusiast
+🔭 I am a .NET Core Back-End Developer/Architect • Consultant • Blogger • DDD & Microservices Enthusiast
 
 📫 How to reach me 
 
