@@ -7,6 +7,9 @@
  <a href="https://www.linkedin.com/in/mjebrahimi/" alt="Connect on LinkedIn">
    <img src="https://img.shields.io/badge/-mjebrahimi-0072b1?style=flat&logo=Linkedin&logoColor=white" />
  </a>
+ <a href="mailto:mj.ebrahimi72@gmail.com" alt="Gmail">
+   <img src="https://img.shields.io/badge/-mj.ebrahimi72@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
+ </a>
  <a href="https://t.me/mjebrahimi" alt="Contact on Telegram">
    <img src="https://img.shields.io/badge/-mjebrahimi-grey?style=flat&logo=Telegram&logoColor=white" />
  </a>
@@ -14,7 +17,7 @@
 
 ---
 
-- 🔭 A .NET Back-End Developer/Architect • Consultant • Blogger • DDD & Microservices Enthusiast.
+- 🔭 A .NET Backend Developer / Software Architect • Consultant • Blogger • DDD & Microservices Enthusiast.
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, and .NET Core
 - 📫 Follow me on Twitter [@mjebrahimi72](https://twitter.com/intent/follow?screen_name=mjebrahimi72) and Linkedin [@mjebrahimi](https://www.linkedin.com/in/mjebrahimi/)
 <!-- - 👯 I’m looking to collaborate on: ... -->
