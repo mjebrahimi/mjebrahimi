@@ -1,17 +1,14 @@
 <h1 align="center">Hi there, I'm Mohammad Javad 👋</h1>
 
 <p align="center"> 
- <a href="https://twitter.com/intent/follow?screen_name=mjebrahimi72" alt="Follow on Twitter">
-   <img src="https://img.shields.io/badge/-@mjebrahimi72-00acee?style=flat&logo=Twitter&logoColor=white" />
+ <a href="https://twitter.com/mjebrahimi72" alt="Mohammad Javad Ebrahimi's Twitter">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&link=https://twitter.com/mjebrahimi72" />
  </a>
- <a href="https://www.linkedin.com/in/mjebrahimi/" alt="Connect on LinkedIn">
-   <img src="https://img.shields.io/badge/-mjebrahimi-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+ <a href="https://www.linkedin.com/in/mjebrahimi" alt="Mohammad Javad Ebrahimi's Linkedin">
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mjebrahimi" />
  </a>
- <a href="mailto:mj.ebrahimi72@gmail.com" alt="Gmail">
-   <img src="https://img.shields.io/badge/-mj.ebrahimi72@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
- </a>
- <a href="https://t.me/mjebrahimi" alt="Contact on Telegram">
-   <img src="https://img.shields.io/badge/-mjebrahimi-grey?style=flat&logo=Telegram&logoColor=white" />
+ <a href="mailto:mj.ebrahimi72@gmail.com" alt="Mohammad Javad Ebrahimi's E-mail">
+   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:mj.ebrahimi72@gmail.com" />
  </a>
 </p>
 
