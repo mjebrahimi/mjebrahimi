@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Mohammad Javad 👋</h1>
 
 <p align="center"> 
- <a href="https://twitter.com/mjebrahimi72" alt="Mohammad Javad Ebrahimi's Twitter">
-   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&link=https://twitter.com/mjebrahimi72" />
- </a>
  <a href="https://www.linkedin.com/in/mjebrahimi" alt="Mohammad Javad Ebrahimi's Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mjebrahimi" />
+ </a>
+ <a href="https://twitter.com/mjebrahimi72" alt="Mohammad Javad Ebrahimi's Twitter">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&link=https://twitter.com/mjebrahimi72" />
  </a>
  <a href="mailto:mj.ebrahimi72@gmail.com" alt="Mohammad Javad Ebrahimi's E-mail">
    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:mjebrahimi1994@gmail.com" />
