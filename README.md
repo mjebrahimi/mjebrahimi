@@ -12,7 +12,15 @@
  </a>
 </p>
 
-I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing high-performance, scalable, resilient, and maintainable systems using C# .NET on top of cutting-edge technologies. My interests include performance optimization, microservices, system design, and software architecture. I love learning, sharing, and facing challenges. Last, but not least, I am also an open-source enthusiast.
+Senior Software Engineer with 11+ years of experience in software development. skilled in designing and building high-performance, high-scalable, and high-quality software and cloud-native microservices with a focus on the Back-End using ASP.NET Core on top of cutting-edge technologies.
+
+Expert in C#/.NET, SQLServer, performance optimization, and observability/monitoring with strong knowledge of system design, software architecture, and distributed systems.
+
+Committed to continuous learning and staying updated with the latest industry trends.
+
+Passionate about embracing challenges, solving complex problems, knowledge sharing, and contributing to the open-source community!
+
+With excellent communication skills and a result and quality-oriented mindset to deliver successful projects.
 
 <h2 align="center">Professional skills</h2>
 
