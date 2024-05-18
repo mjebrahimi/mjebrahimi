@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mjebrahimi" />
  </a>
  <a href="mailto:mj.ebrahimi72@gmail.com" alt="Mohammad Javad Ebrahimi's E-mail">
-   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:mj.ebrahimi72@gmail.com" />
+   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:mjebrahimi1994@gmail.com" />
  </a>
 </p>
 
