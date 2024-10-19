@@ -12,7 +12,7 @@
  </a>
 </p>
 
-Experienced Software Engineer with 11+ years of experience in software development. skilled in designing and building high-performance, high-scalable, and high-quality software and cloud-native microservices with a focus on the backend using C# .NET and ASP.NET Core on top of cutting-edge technologies.
+Experienced Software Engineer with 12+ years of experience in software development. skilled in designing and building high-performance, high-scalable, and high-quality software and cloud-native microservices with a focus on the backend using C# .NET and ASP.NET Core on top of cutting-edge technologies.
 
 Committed to continuous learning and staying updated with the latest industry trends.
 
